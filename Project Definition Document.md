@@ -9,6 +9,8 @@ The website has some significant problems which have to dealt with first hand. S
 
 # Project Vision
 
+To deliver a high-fidelity prototype of the RCE website which is more evolved than the present website, using the concepts of People-Centred Design learnt throughout the class.
+
 # Rationale
 
 # Stakeholders and north star customer
