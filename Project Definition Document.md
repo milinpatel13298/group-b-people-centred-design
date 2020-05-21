@@ -1,25 +1,42 @@
 # Project Definition
 
-The website has some significant problems which have to dealt with first hand. Some of these are as follows.
+The website has some significant problems which have to dealt with first hand. These issues make the RCE website experience very less user-friendly. Some of them are listed below.
 
 - [ ] Blogging and no sharing option for their blog, no facility for comment in any blog
 - [ ] No way to know the current page name and after scrolling down thewebsite 
 - [ ] No bottom to top button for customer to avoid scrolling whole page
-- [ ] In addition, there is no sticky menu on for customer so they can easily change page without scrolling up on the website.
+- [ ] In addition, there is no sticky menu on for customer so they can easily change page without scrolling up on the website
+- [ ] The content is littered making some the website hard to follow and some of it accesible only through the search bar
 
 # Project Vision
 
-To deliver a high-fidelity prototype of the RCE website which is more evolved than the present website, using the concepts of People-Centred Design learnt throughout the class.
+To deliver a high-fidelity prototype of the RCE website which is more evolved than the present website, using the concepts of People-Centred Design learnt throughout the class, hoping to design a website which inspires joy, excitement, and passion that sustainability can happen.
 
 # Rationale
 
-# Stakeholders and north star customer
+A user-friendly website for the RCE will result in a good user experience to a website visitor and inspire them to get involved in the RCE community. It will build social connectivity and further help in achieving the Partnerships sustainability goal of the RCE.
+
+# Stakeholders and North Star Customer
+
+For now, we think it is best to keep the direction of the webiste evolvement undecided so that some general improvements, which are also some of the basic changes required, can be made first. Some new ideas, which have come forward from the very fruitful talk with 
+RCE stakeholders can then be integrated to the website which would be a lot easier now, having made the website more organized and logical.
 
 # Assumptions
 
+* There is no clear format that has to be followed by all RCEs to design their website
+* The stakeholders are open to suggestions for new features proposed for the website
+* Open-source software will be used to implement the proposed design
+
 # Constraints
 
-# Sustomer Eco-System Map(s)
+# Customer Eco-System Map(s)
 (with illustrated carryover)
 
 # High-Level Customer Needs/Requirements
+
+High-level requirements which have come forward from the stakeholder meeting are listed below.
+* The webiste should not get hacked again
+* The 17 sustainability goals should be reflected in the design
+* The website needs to inspire people that sustainability can happen
+* The website should be mobile-friendly
+* The "Recognition Event" website needs to be integrated into the main website
