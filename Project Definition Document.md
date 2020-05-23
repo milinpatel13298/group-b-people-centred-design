@@ -28,6 +28,7 @@ RCE stakeholders can then be integrated to the website which would be a lot easi
 * Open-source software will be used to implement the proposed design
 
 # Constraints
+As a viewer, it is hard to understand the flow of site and access site fast.
 
 # Carryover Customers
 Our carryover customers will be Local Sustainability Leaders,RCE Sask Working Group/flagships, Education and Research Community.
