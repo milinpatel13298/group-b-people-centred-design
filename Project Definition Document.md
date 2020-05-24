@@ -34,7 +34,7 @@ As a viewer, it is hard to understand the flow of site and access site fast.
 Our carryover customers will be Local Sustainability Leaders,RCE Sask Working Group/flagships, Education and Research Community.
 
 # Customer Eco-System Map(s)
-(with illustrated carryover)
+![](raw.png)
 
 # High-Level Customer Needs/Requirements
 
