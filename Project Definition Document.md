@@ -18,6 +18,14 @@ A user-friendly website for the RCE will result in a good user experience to a w
 
 # Stakeholders and North Star Customer
 
+* Local Sustainablity Leaders
+* RCE Saskatchewan Working Groups/Flagship Projects
+* Education and Research Community
+* RCE Partner Organizations
+* General Public & Politicians
+* Other RCEs
+* RCE Admin
+
 For now, we think it is best to keep the direction of the webiste evolvement undecided so that some general improvements, which are also some of the basic changes required, can be made first. Some new ideas, which have come forward from the very fruitful talk with 
 RCE stakeholders can then be integrated to the website which would be a lot easier now, having made the website more organized and logical.
 
