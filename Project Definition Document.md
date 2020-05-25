@@ -39,7 +39,7 @@ RCE stakeholders can then be integrated to the website which would be a lot easi
 As a viewer, it is hard to understand the flow of site and access site fast.
 
 # Carryover Customers
-Our carryover customers will be Local Sustainability Leaders,RCE Sask Working Group/flagships, Education and Research Community.
+Our carryover customers will be Local Sustainability Leaders, RCE Sask Working Group/Flagships, Education and Research Community.
 
 # Customer Eco-System Map(s)
 ![](https://github.com/milinpatel13298/group-b-people-centred-design/blob/master/images/customer-eco-system-map.jpg)
