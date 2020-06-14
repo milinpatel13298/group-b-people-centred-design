@@ -15,3 +15,9 @@ Instructor - [Dr. Timothy Maciag][3]
   * Afterthat, We used  the results from empathy mapping to  create user story mappings (USM). 
   * Then, we worked on designing Low-fidelity design mockups (Paper and pencil design) using concepts from topics learnt in class. 
   * In Addition, We also worked on preparing customer notes and writing insights following the last meeting with RCE members.
+  
+2.  Piller 2
+  * We both work on pillar2 together.
+  * First we both learned how Adobe Xd Work and make a list which feature we can use for our High-Fidelity prototype.
+  * Then, we worked on designing High-Fidelity Design mockups through Adobe Xd using from topics learnt in class.
+  * As well as, we do some correction as customer insights in last meeting and make design and presentation together for final project delivery.
