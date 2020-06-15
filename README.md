@@ -11,9 +11,9 @@ Instructor - [Dr. Timothy Maciag][3]
 
 # Notes
 ### 1.  Pillar 1
-  * We both made empathy mapping invidually, then merged our ideas together using affinity diagramming in order to get a good start for drafting the Project definition document.
-  * Afterthat, We used  the results from empathy mapping to  create user story mappings (USM). 
-  * Then, we worked on designing Low-fidelity design mockups (Paper and pencil design) using concepts from topics learnt in class. 
+  * We both made empathy mappings invidually, then merged our ideas together using affinity diagramming in order to get a good start for drafting the Project definition document.
+  * After that, we used  the results from empathy mapping to  create user story mappings (USM). 
+  * Then, we worked on designing low-fidelity design mockups (paper and pencil design) using concepts from topics learnt in class. 
   * In Addition, We also worked on preparing customer notes and writing insights following the last meeting with RCE members.
   
 ### 2.  Pillar 2
