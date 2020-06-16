@@ -11,4 +11,6 @@
 
 # Team Insights
 
-* 
+* More efforts can be made to see how the designs can be implemented with Drupal and how necessary changes should be made with respect to the limitations by Drupal
+* Different colors from the RCE Saskatchewan logo can be used in the website to avoid any political issues
+* More pages for the mobile version of the website can be designed in future 
