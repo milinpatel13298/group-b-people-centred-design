@@ -8,9 +8,6 @@ By doing this project, we learn new things and methods regarding the prototype d
 
 Then, Second Phase we learn about Adobe Xd software by following tutorials and videoes. It is an advanced software for making wireframe and high fidelity prototype. After that, we create a high fidelity prototype using Adobe xd. This is a long project but still in a short time we manage to give the appropriate proposal to RCE.
 
-# What did not go well?
-
-
 # What could have been better?
 
 
