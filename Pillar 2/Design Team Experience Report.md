@@ -34,4 +34,4 @@ Overall, we felt that these hindrances helped us gained crucial skills like bett
 * Besides, we are also thinking about how users can be motivated to contribute to sustainable development by seeing our design and how they can experience fun using this website without becoming bored
 * Also, we realized from the last customer meeting how we can utilize the RCE Saskatchewan logo colors in design for a better layout
 * We have also agreed to add some other features like enabling event notifications and adding user testimonials based on the design presentations of our fellow group members
-* At last ,we can also ask ourselves what is the way to move to our design according to today's needs?
+* At last , we can also ask ourselves what is the way to move to our design according to today's needs?
