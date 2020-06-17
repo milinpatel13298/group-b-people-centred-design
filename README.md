@@ -19,5 +19,5 @@ Instructor - [Dr. Timothy Maciag][3]
 ### 2.  Pillar 2
   * We both worked on Pillar 2 together.
   * First we individually learned how Adobe Xd works and made a list of features we can use for our high-fidelity prototype.
-  * Then, we worked on designing different high-fidelity design mockups using Adobe Xd and topics learnt in class.
+  * Then, we worked on designing different high-fidelity design mockups using Adobe XD and topics learnt in class.
   * We also made some corrections based on the  customer insights from last meeting and then made design and presentation together for the final project delivery.
